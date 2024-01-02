@@ -116,7 +116,8 @@
   border: none;
   border-radius: 12px;
   transition: all 0.5s ease;
-  background: #1d1b31;
+  /* background: #1d1b31; */
+  background-color: #2B2B30;
 }
 .sidebar.open input{
   padding: 0 20px 0 50px;
@@ -128,11 +129,13 @@
   left: 0;
   transform: translateY(-50%);
   font-size: 22px;
-  background: #1d1b31;
+  /* background: #1d1b31; */
+  background-color: #2B2B30;
   color: #FFF;
 }
 .sidebar.open .bx-search:hover{
-  background: #1d1b31;
+  /* background: #1d1b31; */
+  background-color: #2B2B30;
   color: #FFF;
 }
 .sidebar .bx-search:hover{
